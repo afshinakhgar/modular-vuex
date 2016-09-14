@@ -5,12 +5,14 @@
 </template>
 
 <script>
+import store from './store'
 export default {
   data () {
     return {
       msg: 'Hello Vue!'
     }
-  }
+  },
+  store
 }
 </script>
 
