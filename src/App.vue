@@ -20,7 +20,7 @@ export default {
   	actions : {
   		doLogin
   	}
-  }
+  },
   store
 }
 </script>
